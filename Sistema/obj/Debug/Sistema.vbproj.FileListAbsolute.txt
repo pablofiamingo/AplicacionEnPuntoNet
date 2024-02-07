@@ -1,0 +1,120 @@
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\Sistema.dll.config
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\Sistema.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\Sistema.pdb
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\Sistema.xml
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\csc.exe
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\csc.exe.config
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\csc.rsp
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\csi.exe
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\csi.rsp
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\System.AppContext.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\System.Collections.Immutable.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\System.IO.FileSystem.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\vbc.exe
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\vbc.exe.config
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\vbc.rsp
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\VBCSCompiler.exe
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\roslyn\VBCSCompiler.exe.config
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.AssemblyReference.cache
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.Resources.resources
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.CopyComplete
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.dll
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.xml
+D:\Archivos Nadia\Facultad\Programación IV - ASP .NET\Practica 4\Sistema\Sistema\obj\Debug\Sistema.pdb
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.dll.config
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.pdb
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.xml
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csc.exe
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csc.exe.config
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csc.rsp
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csi.exe
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csi.rsp
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.AppContext.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.IO.FileSystem.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\vbc.exe
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\vbc.exe.config
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\vbc.rsp
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\VBCSCompiler.exe
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\VBCSCompiler.exe.config
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.AssemblyReference.cache
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.Resources.resources
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.CopyComplete
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.dll
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.xml
+E:\OneDrive\Programacion\Materias\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.pdb
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.dll.config
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.pdb
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Sistema.xml
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csc.exe
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csc.exe.config
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csc.rsp
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csi.exe
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\csi.rsp
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.AppContext.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.IO.FileSystem.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\vbc.exe
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\vbc.exe.config
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\vbc.rsp
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\VBCSCompiler.exe
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.AssemblyReference.cache
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.Resources.resources
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.vbproj.CopyComplete
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.dll
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.xml
+D:\Facultad_Backups\4to cuatrimestre\Programación 4\Sistema\Sistema\obj\Debug\Sistema.pdb
